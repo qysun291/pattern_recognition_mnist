@@ -1,0 +1,2 @@
+Digit Recognizer文件夹中为程序，其中input文件夹较大，为从Kaggle上下载的训练和测试数据集，为了节省时间可以不下载
+大作业报告中为本次作业的word版和PDF版
