@@ -1,4 +1,4 @@
 # pattern_recognition_mnist
-"Digit Recognizer"文件夹中为程序，其中input文件夹为从Kaggle上下载的训练数据集和测试数据集，如要运行程序，可从Kaggle上下载train.csv和test.csv放入input文件夹
+"Digit Recognizer"文件夹中为程序，其中的input文件夹为从Kaggle上下载的训练数据集和测试数据集，由于文件太大没有上传，如要运行程序，可从Kaggle上下载train.csv和test.csv放入input文件夹
 
 "大作业报告"文件夹中为本次作业的word版和PDF版
